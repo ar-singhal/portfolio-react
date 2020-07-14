@@ -27,7 +27,11 @@ const Home = (props) => {
         
         <br/>
         <div className="skl"><br/>
+       
         <h1>Skills</h1><br/>
+
+        
+
         <img src={img2} style={{ "height":"44px"  }} />
         <h4>HTML</h4>
         <img src={img3} style={{ "height":"44px"  }} />
